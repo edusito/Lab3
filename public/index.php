@@ -90,7 +90,7 @@
         <section id="home-bg-video" class="bg-cover bg-gray bg-overlay-black-6 h-100 p-0 w-100">
             <!-- BG Video - YouTube -->
             <div id="bgndVideoYouTube" class="player bg-overlay-black-6 h-100 w-100" 
-                 data-property="{videoURL:'https://www.youtube.com/watch?v=kc1MSJV_-w8'}"
+                 data-property="{videoURL:'https://www.youtube.com/watch?v=_qkNEdaMYLs'}"
                  data-video-poster="images/bg-home-1.jpg">
             </div>
             <!-- //.player -->
