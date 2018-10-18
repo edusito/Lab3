@@ -9,24 +9,24 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         
         <!-- Bootstrap CSS -->
-        <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
         
         <!-- Font Awesome CSS -->
-        <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
         
         <!-- Include all css plugins (below), or include individual files as needed -->
-        <link href="assets/css/flickity.min.css" rel="stylesheet" type="text/css">
-        <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
+        <link href="css/flickity.min.css" rel="stylesheet" type="text/css">
+        <link href="css/magnific-popup.css" rel="stylesheet" type="text/css">
         
         <!-- BG Video - YouTube -->
-        <link href="assets/css/jquery.mb.YTPlayer.min.css" rel="stylesheet" type="text/css">
+        <link href="css/jquery.mb.YTPlayer.min.css" rel="stylesheet" type="text/css">
         
         <!-- Theme CSS -->
-        <link href="assets/css/theme.min.css" rel="stylesheet" type="text/css">
-        <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+        <link href="css/theme.min.css" rel="stylesheet" type="text/css">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
         
         <!-- Color Scheme CSS -->
-        <link href="assets/css/color_pink.css" rel="stylesheet" type="text/css">
+        <link href="css/color_pink.css" rel="stylesheet" type="text/css">
     </head>
     <body id="page-top">
         
@@ -36,8 +36,8 @@
                 <div class="row">
                     <div class="col-lg-3 navbar-header">
                         <a class="navbar-brand page-scroll" href="#page-top">
-                            <img src="assets/images/logo-text-black.png" alt="" class="logo-text-dark">
-                            <img src="assets/images/logo-text-white.png" alt="" class="logo-text-light">
+                            <img src="images/logo-text-black.png" alt="" class="logo-text-dark">
+                            <img src="images/logo-text-white.png" alt="" class="logo-text-light">
                         </a>
                         
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header" aria-controls="navbar-header" aria-expanded="false" aria-label="Toggle navigation">
@@ -91,7 +91,7 @@
             <!-- BG Video - YouTube -->
             <div id="bgndVideoYouTube" class="player bg-overlay-black-6 h-100 w-100" 
                  data-property="{videoURL:'https://www.youtube.com/watch?v=kc1MSJV_-w8'}"
-                 data-video-poster="assets/images/bg-home-1.jpg">
+                 data-video-poster="images/bg-home-1.jpg">
             </div>
             <!-- //.player -->
             
@@ -160,17 +160,17 @@
                     <div class="col-lg-6">
                         <div class="carousel-custom" data-pagedots="true" data-draggable="false" data-autoplay="5000">
                             <div class="carousel-cell w-100">
-                                <img src="assets/images/about-1.jpg" alt="" class="img-fluid box-shadow-shallow rounded"/>
+                                <img src="images/about-1.jpg" alt="" class="img-fluid box-shadow-shallow rounded"/>
                             </div>
                             <!-- //.carousel-cell -->
                             
                             <div class="carousel-cell w-100">
-                                <img src="assets/images/about-2.jpg" alt="" class="img-fluid box-shadow-shallow rounded"/>
+                                <img src="images/about-2.jpg" alt="" class="img-fluid box-shadow-shallow rounded"/>
                             </div>
                             <!-- //.carousel-cell -->
                             
                             <div class="carousel-cell w-100">
-                                <img src="assets/images/about-3.jpg" alt="" class="img-fluid box-shadow-shallow rounded"/>
+                                <img src="images/about-3.jpg" alt="" class="img-fluid box-shadow-shallow rounded"/>
                             </div>
                             <!-- //.carousel-cell -->
                         </div>
@@ -530,12 +530,12 @@
                                 <div class="item team">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-1.jpg" alt="">
+                                            <img src="images/gallery-1.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-1.jpg" title="Image Caption 1">
+                                            <a href="images/gallery-1.jpg" title="Image Caption 1">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 1</span>
@@ -552,12 +552,12 @@
                                 <div class="item work-space">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-2.jpg" alt="">
+                                            <img src="images/gallery-2.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-2.jpg" title="Image Caption 2">
+                                            <a href="images/gallery-2.jpg" title="Image Caption 2">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 2</span>
@@ -574,12 +574,12 @@
                                 <div class="item culture">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-3.jpg" alt="">
+                                            <img src="images/gallery-3.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-3.jpg" title="Image Caption 3">
+                                            <a href="images/gallery-3.jpg" title="Image Caption 3">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 3</span>
@@ -596,12 +596,12 @@
                                 <div class="item team">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-4.jpg" alt="">
+                                            <img src="images/gallery-4.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-4.jpg" title="Image Caption 4">
+                                            <a href="images/gallery-4.jpg" title="Image Caption 4">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 4</span>
@@ -618,12 +618,12 @@
                                 <div class="item work-space culture">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-5.jpg" alt="">
+                                            <img src="images/gallery-5.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-5.jpg" title="Image Caption 5">
+                                            <a href="images/gallery-5.jpg" title="Image Caption 5">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 5</span>
@@ -640,12 +640,12 @@
                                 <div class="item culture">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-6.jpg" alt="">
+                                            <img src="images/gallery-6.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-6.jpg" title="Image Caption 6">
+                                            <a href="images/gallery-6.jpg" title="Image Caption 6">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 6</span>
@@ -662,12 +662,12 @@
                                 <div class="item team work-space">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-7.jpg" alt="">
+                                            <img src="images/gallery-7.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-7.jpg" title="Image Caption 7">
+                                            <a href="images/gallery-7.jpg" title="Image Caption 7">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 7</span>
@@ -684,12 +684,12 @@
                                 <div class="item culture">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-8.jpg" alt="">
+                                            <img src="images/gallery-8.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-8.jpg" title="Image Caption 8">
+                                            <a href="images/gallery-8.jpg" title="Image Caption 8">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 8</span>
@@ -706,12 +706,12 @@
                                 <div class="item work-space">
                                     <figure>
                                         <div class="gallery-img">
-                                            <img src="assets/images/gallery-9.jpg" alt="">
+                                            <img src="images/gallery-9.jpg" alt="">
                                         </div>
                                         <!-- //.gallery-img -->
                                         
                                         <figcaption>
-                                            <a href="assets/images/gallery-9.jpg" title="Image Caption 9">
+                                            <a href="images/gallery-9.jpg" title="Image Caption 9">
                                                 <div class="d-table">
                                                     <div class="d-table-cell align-middle">
                                                         <span class="d-block font-alt letter-spacing-2 text-extra-large text-uppercase text-white">Image Caption 9</span>
@@ -823,7 +823,7 @@
                 <div class="row">
                     <div class="col-md-6 col-lg-3">
                         <figure class="team-block rounded">
-                            <img src="assets/images/team-1.jpg" alt="" class="img-fluid ease rounded">
+                            <img src="images/team-1.jpg" alt="" class="img-fluid ease rounded">
                             
                             <figcaption class="ease h-100 left-0 position-absolute rounded top-0 w-100">
                                 <div class="d-table h-100 position-relative px-4 w-100">
@@ -842,7 +842,7 @@
                     
                     <div class="col-md-6 col-lg-3">
                         <figure class="team-block rounded">
-                            <img src="assets/images/team-2.jpg" alt="" class="img-fluid ease rounded">
+                            <img src="images/team-2.jpg" alt="" class="img-fluid ease rounded">
                             
                             <figcaption class="ease h-100 left-0 position-absolute rounded top-0 w-100">
                                 <div class="d-table h-100 position-relative px-4 w-100">
@@ -861,7 +861,7 @@
                     
                     <div class="col-md-6 col-lg-3">
                         <figure class="team-block rounded">
-                            <img src="assets/images/team-3.jpg" alt="" class="img-fluid ease rounded">
+                            <img src="images/team-3.jpg" alt="" class="img-fluid ease rounded">
                             
                             <figcaption class="ease h-100 left-0 position-absolute rounded top-0 w-100">
                                 <div class="d-table h-100 position-relative px-4 w-100">
@@ -880,7 +880,7 @@
                     
                     <div class="col-md-6 col-lg-3">
                         <figure class="team-block rounded">
-                            <img src="assets/images/team-4.jpg" alt="" class="img-fluid ease rounded">
+                            <img src="images/team-4.jpg" alt="" class="img-fluid ease rounded">
                             
                             <figcaption class="ease h-100 left-0 position-absolute rounded top-0 w-100">
                                 <div class="d-table h-100 position-relative px-4 w-100">
@@ -911,7 +911,7 @@
                     <div class="carousel-cell w-100">
                         <div class="row justify-content-center text-center text-md-left">
                             <div class="col-5 col-md-3 col-lg-2">
-                                <img src="assets/images/testimonial-1.jpg" alt="" class="img-fluid">
+                                <img src="images/testimonial-1.jpg" alt="" class="img-fluid">
                             </div>
                             <!-- //.col-5 -->
                             
@@ -932,7 +932,7 @@
                     <div class="carousel-cell w-100">
                         <div class="row justify-content-center text-center text-md-left">
                             <div class="col-5 col-md-3 col-lg-2">
-                                <img src="assets/images/testimonial-2.jpg" alt="" class="img-fluid">
+                                <img src="images/testimonial-2.jpg" alt="" class="img-fluid">
                             </div>
                             <!-- //.col-5 -->
                             
@@ -953,7 +953,7 @@
                     <div class="carousel-cell w-100">
                         <div class="row justify-content-center text-center text-md-left">
                             <div class="col-5 col-md-3 col-lg-2">
-                                <img src="assets/images/testimonial-3.jpg" alt="" class="img-fluid">
+                                <img src="images/testimonial-3.jpg" alt="" class="img-fluid">
                             </div>
                             <!-- //.col-5 -->
                             
@@ -1168,7 +1168,7 @@
                         <div class="timeline clearfix py-2 py-lg-5">
                             <div class="timeline-item">
                                 <div class="card box-shadow">
-                                    <img src="assets/images/history-1.jpg" alt="" class="card-img-top img-fluid">
+                                    <img src="images/history-1.jpg" alt="" class="card-img-top img-fluid">
 
                                     <div class="card-block">
                                         <div class="p-2">
@@ -1186,7 +1186,7 @@
                             
                             <div class="timeline-item timeline-inverted">
                                 <div class="card box-shadow">
-                                    <img src="assets/images/history-2.jpg" alt="" class="card-img-top img-fluid">
+                                    <img src="images/history-2.jpg" alt="" class="card-img-top img-fluid">
 
                                     <div class="card-block">
                                         <div class="p-2">
@@ -1204,7 +1204,7 @@
                             
                             <div class="timeline-item">
                                 <div class="card box-shadow">
-                                    <img src="assets/images/history-3.jpg" alt="" class="card-img-top img-fluid">
+                                    <img src="images/history-3.jpg" alt="" class="card-img-top img-fluid">
 
                                     <div class="card-block">
                                         <div class="p-2">
@@ -1222,7 +1222,7 @@
                             
                             <div class="timeline-item timeline-inverted">
                                 <div class="card box-shadow">
-                                    <img src="assets/images/history-4.jpg" alt="" class="card-img-top img-fluid">
+                                    <img src="images/history-4.jpg" alt="" class="card-img-top img-fluid">
 
                                     <div class="card-block">
                                         <div class="p-2">
@@ -1240,7 +1240,7 @@
                             
                             <div class="timeline-item">
                                 <div class="card box-shadow">
-                                    <img src="assets/images/history-5.jpg" alt="" class="card-img-top img-fluid">
+                                    <img src="images/history-5.jpg" alt="" class="card-img-top img-fluid">
 
                                     <div class="card-block">
                                         <div class="p-2">
@@ -1323,7 +1323,7 @@
             <div class="container">
                 <div class="row align-items-center pb-5">
                     <div class="col-md-4 text-center text-md-left">
-                        <img src="assets/images/logo-text-black.png" alt="" class="footer-logo opacity-5"/>
+                        <img src="images/logo-text-black.png" alt="" class="footer-logo opacity-5"/>
                     </div>
                     <!-- //.col-md-8 -->
                     
@@ -1368,28 +1368,28 @@
         
         
         <!-- Main JS -->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/popper.min.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
         
         <!-- Include all js plugins (below) -->
-        <script src="assets/js/pace.min.js"></script>
-        <script src="assets/js/jquery.easing.min.js"></script>
-        <script src="assets/js/jquery.inview.min.js"></script>
-        <script src="assets/js/jquery.countTo.js"></script>
-        <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-        <script src="assets/js/flickity.pkgd.min.js"></script>
-        <script src="assets/js/isotope.pkgd.min.js"></script>
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>
-        <script src="assets/js/jquery.easypiechart.min.js"></script>
-        <script src="assets/js/jquery.countdown.min.js"></script>
-        <script src="assets/js/jquery.validate.min.js"></script>
+        <script src="js/pace.min.js"></script>
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/jquery.inview.min.js"></script>
+        <script src="js/jquery.countTo.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/flickity.pkgd.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/jquery.easypiechart.min.js"></script>
+        <script src="js/jquery.countdown.min.js"></script>
+        <script src="js/jquery.validate.min.js"></script>
         
         <!-- BG Video - YouTube -->
-        <script src="assets/js/jquery.mb.YTPlayer.min.js"></script>
+        <script src="js/jquery.mb.YTPlayer.min.js"></script>
         
         <!-- Theme JS -->
-        <script src="assets/js/theme.js"></script>
+        <script src="js/theme.js"></script>
         
     </body>
 </html>
