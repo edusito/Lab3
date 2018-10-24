@@ -23,3 +23,9 @@ mix.js('resources/js/app.js', 'public/js')
 
 
    .sass('resources/sass/app.scss', 'public/css');
+   
+   'resources/plantillas/Asset/css/jquery-ui.css',
+   'resources/plantillas/Asset/css/jquery-ui.css',
+   'resources/plantillas/Asset/css/jquery-ui.css',
+   'public/js/plantillas.js'
+   
