@@ -12,20 +12,4 @@ const mix = require('laravel-mix');
  */
 
 mix.js('resources/js/app.js', 'public/js')
-    
-    'resources/plantillas/css/boostrap.css',
-    'resources/plantillas/css/font-awesome.css',
-    'resources/plantillas/css/ionicosns.css',
-    'resources/plantillas/css/jquery-ui.css',
-    'resources/plantillas/css/style.css',
-    
-    'public/Asset/css/plantilla.css'
-
-
    .sass('resources/sass/app.scss', 'public/css');
-   
-   'resources/plantillas/Asset/css/jquery-ui.css',
-   'resources/plantillas/Asset/css/jquery-ui.css',
-   'resources/plantillas/Asset/css/jquery-ui.css',
-   'public/js/plantillas.js'
-   
