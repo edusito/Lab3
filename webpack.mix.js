@@ -31,8 +31,9 @@ mix.js('resources/js/app.js', 'public/js')
 'resources/js/bootstrap.min.js',
 'resources/js/jquery-1.11.2.min.js',
 'resources/js/jquery-ui.min.js',
-'resources/js/theme.js',*/
-
+'resources/js/theme.js',
+'resources/platillas/inicio.js'
+'public/'*/
 
    .sass('resources/sass/app.scss', 'public/css');
 
@@ -47,4 +48,5 @@ mix.js('resources/js/app.js', 'public/js')
 'resources/sass/font-awesome.css',
 'resources/sass/ionicons.css',
 'resources/sass/jquery-ui.css',
-'resources/sass/style.css';*/
+'resources/sass/style.css';
+|*/

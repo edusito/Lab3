@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateForumsTable extends Migration
+class CreateforumsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -16,7 +16,7 @@ class CreateForumsTable extends Migration
         Schema::create('forums', function (Blueprint $table) {
             $table->engine = 'InnoDb';
             $table->increments('id');
-            $table->stirng('name');
+            $table->string('name');
             $table->string('slug');
             $table->index('slug');
             $table->string('description');
